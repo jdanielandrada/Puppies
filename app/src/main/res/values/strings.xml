@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Puppies2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perro1_descripcion">Nachito salió bien de la cirugia, está delicado pero estable, tiene de todo en su cuerpito pero está lleno de amor, por nosotros y por ustedes que nos envian su cariño.</string>
+    <string name="perro2_descripcion">Muy pequeño en adopción, pobre amor pasó por muchos momentos tristes en su vida, se merece todo el Amor del mundo pues el pequeño te va a saber retribuirlo, se llama Kanki, tiene entre 7 y 8 años, son 5kg de amor incondicional, será tu mejor compañia.</string>
+    <string name="perro3_descripcion">Este hermoso barbincho tiene 4 años. Vivia con un abuelo en su hogar, siempre cariñoso y compañero. Lo acompañababa a comprar en tardes de mates en su patiecito, era conocido por todos en el barrio, hasta que un dia, al abuelo lo tuvieron  que internar. No sabemos como Martin apareció en la puerta de la clinica.</string>
+    <string name="perro4_descripcion">Tanto tiempo esperando por su familia, esperando que ellos regresen. Ya me quedé sin esperanzas, eso piensa Pipo, quien fue abandonado cuando decidieron vivir en el Sur.</string>
+    <string name="perro5_descripcion">Chinita de ojos dulces. Esa es la descripción ideal para empezar a contarles que Miel tiene 6 años y ya conoció el abandono dos veces. Llegó al refugio de bebé. Fue a adoptada por un matrimonio al año y como si nada nos llaman para decirnos que la devuelven porque la pareja decidió separarse.</string>
+    <string name="perro6_descripcion">Ni uno, ni dos, ni tres. Panam hace nueve años que espera una casa. Nueve años mirando tras el enrejado como se van sus amigos y ella no.</string>
+
+
+</resources>
